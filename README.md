@@ -19,3 +19,11 @@ Configured the dc-1 VM's private ip address to be static so that the client's VM
 
 Created the clients VM(client-1) and connected clients ip to dc-1 private ip. Successfully deployed.
 
+![Image](https://github.com/user-attachments/assets/c7c3683a-1da3-474d-a5f2-80ee344a5b89)
+
+Dc-1 and Client-1 VMs successfully created and now running.
+
+
+
+
+
