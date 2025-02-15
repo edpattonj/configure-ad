@@ -10,4 +10,6 @@ Created the resource group in Azure needed to run Active Directory and Client VM
 
 Created VM to host as Active Directory and Domain Controller(dc-1) that the client VM will connect to. And successfully deployed VM.
 
+![Image](https://github.com/user-attachments/assets/baa04a66-ec35-43e0-9384-16112a7b8636)
 
+Configured the dc-1 VM's private ip address to be static so that the client's VM can connect to the hosted dc-1's network.
