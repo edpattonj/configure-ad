@@ -23,7 +23,13 @@ Created the clients VM(client-1) and connected clients ip to dc-1 private ip. Su
 
 Dc-1 and Client-1 VMs successfully created and now running.
 
+![Image](https://github.com/user-attachments/assets/2de57424-8ce8-4f51-bf95-4a48971dd87b)
 
+Successfully pinged the dc-1's VM private ip address through the Clients VM in Power Shell
+
+![Image](https://github.com/user-attachments/assets/d052c6e4-4d46-449b-b09b-5698ac650d61)
+
+Ran ipconfig in Power Shell through Client's VM to show that the client's DNS is successfully connected to dc-1's Private ip and network.
 
 
 
