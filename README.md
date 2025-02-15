@@ -1,4 +1,4 @@
-# configure-ad
+# Configure-Ad
 
 ![Image](https://github.com/user-attachments/assets/d010fef4-3330-440b-9b7a-d0b9f017b761)
 
