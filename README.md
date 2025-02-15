@@ -13,3 +13,9 @@ Created VM to host as Active Directory and Domain Controller(dc-1) that the clie
 ![Image](https://github.com/user-attachments/assets/baa04a66-ec35-43e0-9384-16112a7b8636)
 
 Configured the dc-1 VM's private ip address to be static so that the client's VM can connect to the hosted dc-1's network.
+
+![Image](https://github.com/user-attachments/assets/4ec22ab0-b582-48c0-bce4-4f08b6f8250d)
+![Image](https://github.com/user-attachments/assets/3afe11f7-224b-45a1-9bb6-d226b8dafa8f)
+
+Created the clients VM(client-1) and connected clients ip to dc-1 private ip. Successfully deployed.
+
